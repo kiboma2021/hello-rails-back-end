@@ -72,7 +72,7 @@
 
 ### Frontend Project  <a name="frontend-project"></a>
 
-The frontend project for this API can be found in the following link: [Hello React Frontend](https://github.com/kiboma2021/hello-rails-back-end)
+The frontend project for this API can be found in the following link: [Hello React Frontend](https://github.com/kiboma2021/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
