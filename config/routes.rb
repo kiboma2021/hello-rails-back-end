@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get '/fetch_all_messages', to: 'api/messages#fetch_all_messages'
+  get '/random_greeting', to: 'api/messages#random_greeting'
 end
