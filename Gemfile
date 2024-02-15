@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 
 gem 'rack-cors', require: 'rack/cors'
 
+gem 'rubocop', '>= 1.0', '< 2.0'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
